@@ -231,6 +231,11 @@ Status   : Open to hybrid & remote roles in Ontario
   <img src="https://img.shields.io/github/followers/Shashanksv24?label=Followers&style=flat-square&color=1F4E79" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shashanksv24/Shashanksv24/output/github-snake.svg" alt="Snake animation" />
+</p>
 <!-- ═══ FOOTER WAVE ═══ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Greater+Toronto+Area%2C+ON+%F0%9F%8D%81+%7C+Open+to+Work&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
 <!--
