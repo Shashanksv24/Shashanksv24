@@ -177,19 +177,6 @@ Status   : Open to hybrid & remote roles in Ontario
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashanksv24&bg_color=0d1117&color=2E86C1&line=2E86C1&point=FF6B00&area=true&hide_border=true" />
 
-<!-- ═══ CONTRIBUTION SNAKE ═══ -->
-## 🐍 Contribution Snake
-
-> ⚙️ **Setup:** Create `.github/workflows/snake.yml` in your profile repo. See setup note below the snake.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shashanksv24/Shashanksv24/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shashanksv24/Shashanksv24/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Shashanksv24/Shashanksv24/output/github-snake.svg" />
-</picture>
-
----
-
 <!-- ═══ WHAT I'M BUILDING ═══ -->
 ## 🚧 What I'm Building Here
 
