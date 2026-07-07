@@ -1,15 +1,16 @@
 <!-- ██████████████████████████████████████████████ -->
 <!--         SHASHANK VASANTHAKUMAR                -->
-<!--      GitHub Profile README — Shashanksv24     -->
-<!--   Paste into: Shashanksv24/README.md          -->
+<!--   GitHub Profile README — Shashanksv24        -->
+<!--   Paste into repo: Shashanksv24/Shashanksv24  -->
+<!--   file: README.md                             -->
 <!-- ██████████████████████████████████████████████ -->
 
 <!-- ═══ ANIMATED HEADER WAVE ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shashank%20Vasanthakumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=PMO%20Analyst%20%7C%20Program%20Coordinator%20%7C%20Enterprise%20Governance&descAlignY=56&descAlign=50&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shashank%20Vasanthakumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Project%20Coordinator%20%7C%20PMO%20Analyst%20%7C%20Business%20%26%20IT%20Analysis&descAlignY=56&descAlign=50&descSize=16" />
 
 <!-- ═══ TYPING ANIMATION ═══ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=2E86C1&center=true&vCenter=true&multiline=false&random=false&width=750&height=52&lines=%F0%9F%97%82%EF%B8%8F+PMO+%26+Program+Coordination+Specialist;%F0%9F%8F%A2+5%2B+Years+%40+Amazon+%E2%80%94+14%2B+Concurrent+Programs;%E2%9C%85+98%25%2B+SLA+Adherence+%7C+Zero+Missed+Milestones;%F0%9F%93%8A+Portfolio+Tracking+%7C+Governance+%7C+Stakeholder+Reporting;%F0%9F%8E%AF+PMP+Candidate+%7C+Google+PM+Certified+%7C+GTA%2C+ON" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=2E86C1&center=true&vCenter=true&multiline=false&random=false&width=750&height=52&lines=%F0%9F%97%82%EF%B8%8F+Project+%26+Program+Coordination;%F0%9F%8F%A2+5%2B+Years+%40+Amazon+%26+Outlier+AI;%E2%9C%85+14%2B+Programs+%7C+98%25%2B+SLA+Adherence;%F0%9F%93%8A+Zero+Missed+Milestones+%40+Outlier+AI;%F0%9F%8E%AF+Google+PM+Certified+%7C+PMP+Candidate+2026;%F0%9F%8D%81+Waterloo+%26+Greater+Toronto+Area%2C+ON" alt="Typing SVG" />
 </p>
 
 <!-- ═══ BADGES ROW ═══ -->
@@ -17,15 +18,14 @@
   <a href="https://linkedin.com/in/shashanksv24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://shashanksv24.github.io/Portfolio" target="_blank">
+  <a href="https://shashanksv.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
   <a href="mailto:shashanksv93@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/PMP-In%20Progress%20%F0%9F%8E%AF-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Google%20PM-Certified%20%E2%9C%85-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=Shashanksv24&label=Profile+Views&color=1F4E79&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PMP-Candidate%202026%20%F0%9F%8E%AF-FF6B00?style=for-the-badge" />
 </p>
 
 ---
@@ -37,20 +37,20 @@
 
 ```yaml
 Name     : Shashank Vasanthakumar
-Role     : PMO Analyst | Program Coordinator
-Location : Greater Toronto Area, Ontario 🍁
-Status   : Open to hybrid & remote roles in Ontario
+Role     : Project Coordinator | PMO Analyst
+Location : Waterloo & Greater Toronto Area, ON 🍁
+Status   : Open to hybrid, remote & on-site across Ontario
 ```
 
-🏢 **5+ years** driving enterprise PMO governance, portfolio tracking, and stakeholder reporting — most recently coordinating **14+ concurrent programs** at **Amazon Development Center** across Legal, QA, Engineering & Operations.
+🏢 **5+ years** of enterprise delivery across **Amazon** and **Outlier AI** — coordinating **14+ concurrent programs** across Legal, QA, Engineering & Operations, and keeping the plans, RAID logs, and reporting that leadership actually uses.
 
-- 📋 **98%+ SLA adherence** across full program portfolios  
-- ✅ **Zero missed milestones** across all active workstreams  
-- 📈 **+40% operational efficiency** gain on enterprise platform rollout  
-- 🔍 **Zero audit findings** across all compliance reviews  
-- 🏆 **Star Performer Award** — 4 consecutive quarters
+- 📋 **98%+ SLA adherence** across a 14-project catalog portfolio at Amazon
+- ✅ **Zero missed milestones** across 6–8 concurrent workstreams at Outlier AI
+- 📈 **+40% operational efficiency** on an enterprise platform rollout
+- 🔍 **+22% data accuracy** through standardized, audit-ready governance
+- 🏆 **Star Performer Award** — 4 consecutive quarters (Amazon, 2019)
 
-🎓 Post-Grad in **IT Project Management** (Conestoga) · **Google PM Certified** (2025) · **PMP in Progress** (2026)
+🎓 Post-Grad in **IT Project Management** (Conestoga) · **Google PM Certified** · **PMP Candidate** (2026)
 
 ---
 
@@ -64,20 +64,17 @@ Status   : Open to hybrid & remote roles in Ontario
   <img src="https://img.shields.io/badge/MS_Project-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Monday.com-F62B54?style=for-the-badge&logo=monday&logoColor=white" />
   <img src="https://img.shields.io/badge/Smartsheet-1B5E20?style=for-the-badge&logo=smartsheet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
   <img src="https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=black" />
-  <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=pink" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
   <img src="https://img.shields.io/badge/MS_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" />
   <img src="https://img.shields.io/badge/DocuSign-FFB600?style=for-the-badge&logo=docusign&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS_Visio-3955A3?style=for-the-badge&logo=microsoftvisio&logoColor=white" />
 </p>
 
 <p align="center">
@@ -87,10 +84,10 @@ Status   : Open to hybrid & remote roles in Ontario
   <img src="https://img.shields.io/badge/Waterfall-1F4E79?style=flat-square" />
   <img src="https://img.shields.io/badge/Hybrid_Delivery-2E7D32?style=flat-square" />
   <img src="https://img.shields.io/badge/Change_Management-6A1B9A?style=flat-square" />
-  <img src="https://img.shields.io/badge/ADKAR-880E4F?style=flat-square" />
   <img src="https://img.shields.io/badge/RAID_Logs-B71C1C?style=flat-square" />
   <img src="https://img.shields.io/badge/BRD_/_FRD-004D40?style=flat-square" />
-  <img src="https://img.shields.io/badge/Stage_Gates-4A148C?style=flat-square" />
+  <img src="https://img.shields.io/badge/UAT-4A148C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stage_Gates-283593?style=flat-square" />
 </p>
 
 ---
@@ -98,63 +95,42 @@ Status   : Open to hybrid & remote roles in Ontario
 <!-- ═══ CAREER HIGHLIGHTS ═══ -->
 ## 📊 Career Highlights
 
-<p align="center">
-  <img src="https://img.shields.io/badge/14%2B_Concurrent_Programs_Managed-1F4E79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/98%25%2B_SLA_Adherence_%40_Amazon-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zero_Missed_Milestones-006400?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%2B40%25_Operational_Efficiency_Gain-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%2B22%25_Data_Accuracy_Improvement-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zero_Audit_Findings-006400?style=for-the-badge" />
-</p>
-
-| 🏢 Experience | 📋 Programs | ✅ SLA | 📈 Efficiency | 🔍 Audit |
-|:---:|:---:|:---:|:---:|:---:|
-| 5+ Years | 14+ Concurrent | 98%+ | +40% | Zero Findings |
+| 🏢 Experience | 📋 Programs | ✅ SLA | 📈 Efficiency | 🎯 Accuracy | 🧾 Cases |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 5+ Years | 14+ Concurrent | 98%+ | +40% | +22% | 2,100+/mo |
 
 ---
 
-<!-- ═══ GITHUB STATS ═══ -->
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shashanksv24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E86C1&icon_color=2E86C1&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shashanksv24&theme=tokyonight&hide_border=true&background=0d1117&stroke=2E86C1&ring=2E86C1&fire=FF6B00&currStreakLabel=2E86C1" />
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashanksv24&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&layout=compact" />
-</p>
-
----
-
-<!-- ═══ TROPHIES ═══ -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shashanksv24&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6" />
-</p>
-
----
-
-<!-- ═══ FEATURED REPOS / WORK ═══ -->
+<!-- ═══ FEATURED WORK ═══ -->
 ## 🗂️ Featured Work
 
+<p align="center">
+  <a href="https://github.com/Shashanksv24/Portfolio">
+    <img width="60%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashanksv24&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&icon_color=2E86C1" />
+  </a>
+</p>
+
+<!-- ⏳ UNCOMMENT each pin below ONLY AFTER you create that repo,
+     otherwise the card renders as a broken/error image.
 <p align="center">
   <a href="https://github.com/Shashanksv24/PMO-Artifact-Vault">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashanksv24&repo=PMO-Artifact-Vault&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&icon_color=2E86C1" />
   </a>
-  <a href="https://github.com/Shashanksv24/Portfolio">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashanksv24&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&icon_color=2E86C1" />
-  </a>
-</p>
-<p align="center">
   <a href="https://github.com/Shashanksv24/Agile-Capstone">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashanksv24&repo=Agile-Capstone&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&icon_color=2E86C1" />
   </a>
-  <a href="https://github.com/Shashanksv24/PM-Case-Studies">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shashanksv24&repo=PM-Case-Studies&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86C1&text_color=c9d1d9&icon_color=2E86C1" />
-  </a>
 </p>
+-->
+
+## 🚧 What I'm Building Here
+
+| Repo | Description | Status |
+|------|-------------|--------|
+| 🌐 [Portfolio](https://shashanksv.netlify.app) | Interactive delivery portfolio + smart résumé | ✅ Live |
+| 📋 PMO-Artifact-Vault | RAID logs, charters, status reports, risk registers | 🔨 Building |
+| 🎓 Agile-Capstone | IT PM Capstone — Conestoga (Agile Scrum Lead) | 🔨 Building |
+| 📊 PM-Case-Studies | Structured project case studies in Markdown | 📅 Planned |
+| 📓 Learning-Journal | PMP study notes & PM concepts | 📅 Planned |
 
 ---
 
@@ -162,9 +138,11 @@ Status   : Open to hybrid & remote roles in Ontario
 ## 🎓 Certifications & Education
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_PMP-In_Progress_(2026)-FF6B00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%94%B5_Google_PM_Certificate-2025-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%94%B5_Google_PM_Certificate-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_PMP-Candidate_2026-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%E2%9A%A1_Agile_Scrum_Fundamentals-2024-0052CC?style=for-the-badge" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%8E%93_IT_Project_Management-Conestoga_2025-1F4E79?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%93_Project_Management-Conestoga_2024-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%8F%AB_BBA_Finance_%26_Marketing-PES_University-880E4F?style=for-the-badge" />
@@ -172,25 +150,7 @@ Status   : Open to hybrid & remote roles in Ontario
 
 ---
 
-<!-- ═══ ACTIVITY GRAPH ═══ -->
-## 📉 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shashanksv24&bg_color=0d1117&color=2E86C1&line=2E86C1&point=FF6B00&area=true&hide_border=true" />
-
-<!-- ═══ WHAT I'M BUILDING ═══ -->
-## 🚧 What I'm Building Here
-
-| Repo | Description | Status |
-|------|-------------|--------|
-| 🌐 [Portfolio](https://shashanksv24.github.io/Portfolio) | Personal portfolio website | ✅ Live |
-| 📋 PMO-Artifact-Vault | RAID logs, charters, status reports, risk registers | 🔨 Building |
-| 🎓 Agile-Capstone | IT PM Capstone — Conestoga (Agile Scrum Lead) | 🔨 Building |
-| 📊 PM-Case-Studies | Structured project case studies in Markdown | 🔨 Building |
-| 📓 Learning-Journal | PMP study notes, PM concepts, book summaries | 📅 Planned |
-
----
-
-<!-- ═══ FUN FACTS / QUOTE ═══ -->
+<!-- ═══ QUOTE ═══ -->
 ## 💡 A Quote I Live By
 
 > *"Plans are worthless, but planning is everything."* — Dwight D. Eisenhower
@@ -207,35 +167,27 @@ Status   : Open to hybrid & remote roles in Ontario
   <a href="mailto:shashanksv93@gmail.com">
     <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://shashanksv24.github.io/Portfolio">
+  <a href="https://shashanksv.netlify.app">
     <img src="https://img.shields.io/badge/View_My_Portfolio-1F4E79?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shashanksv24&label=Profile+Views&color=1F4E79&style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Shashanksv24?label=Followers&style=flat-square&color=1F4E79" />
 </p>
 
-## 🐍 Contribution Snake
+<!-- ═══════════════════════════════════════════════════════════════
+     REMOVED ON PURPOSE (add back later if you want, but read this):
+     • GitHub Stats / Streaks / Top Languages / Trophies / Activity
+       graph — with a new, low-commit account these render as
+       "Total Contributions: 0–5", one language (HTML), and empty
+       trophy shelves. For a PM profile that HURTS more than helps.
+       Re-add once you have a few months of real commits.
+     • Contribution Snake — requires a GitHub Actions workflow that
+       generates the SVG on an "output" branch. Without it the image
+       is permanently broken. Ask Claude for the workflow file if
+       you want it.
+     ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shashanksv24/Shashanksv24/output/github-snake.svg" alt="Snake animation" />
-</p>
 <!-- ═══ FOOTER WAVE ═══ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Greater+Toronto+Area%2C+ON+%F0%9F%8D%81+%7C+Open+to+Work&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
-<!--
-**Shashanksv24/Shashanksv24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Waterloo+%26+GTA%2C+ON+%F0%9F%8D%81+%7C+Open+to+Work&fontSize=16&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
